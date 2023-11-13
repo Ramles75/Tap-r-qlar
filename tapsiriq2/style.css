@@ -1,0 +1,44 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: auto;
+    padding: 0 17.9%;
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid rgb(133, 217, 221);
+    background-color: rgb(237, 255, 249);
+    align-content: center;
+}
+
+.td {
+    padding: 10px;
+}
+
+.h1 {
+    font-weight: 900;
+}
+
+.h2 {
+    font-size: 19px;
+    font-weight: 900;
+}
+
+.p {
+    border: 1px solid rgb(47, 248, 255);
+    background-color: rgb(237, 255, 249);
+    border-radius: 10px;
+    padding: 30px;
+    align-content: center;
+}
+
+.ul {
+    list-style-type: square;
+    border: 1px solid rgb(47, 248, 255);
+    background-color: rgb(237, 255, 249);
+    border-radius: 10px;
+    padding: 30px;
+    align-content: center;
+}
+
+/* max-width ve min-width vere bilmedim.*/
