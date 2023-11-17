@@ -1,0 +1,47 @@
+.container {
+    font-family: 'Source Code Pro', monospace;
+    height: auto;
+    width: auto;
+    background-color: #59316b;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+.icons {
+    display: flex;
+    justify-content: center;
+}
+
+.icon {
+    box-sizing: content-box;
+    border: 1px;
+    margin: 30px;
+    background-color: #35074b;
+    color: white;
+    font-size: 80px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.button {
+    display: flex;
+    margin: 10px;
+}
+
+.box {
+    box-sizing: content-box;
+    height: auto;
+    width: auto;
+    margin: 5px;
+    color: white;
+    border: 1px;
+    border-radius: 5px;
+    background-color: #80459b;
+}
