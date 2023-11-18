@@ -5,6 +5,7 @@ body {
 }
 
 table {
+    width: 100%;
     border-collapse: collapse;
     border: 1px solid rgb(133, 217, 221);
     background-color: rgb(237, 255, 249);
