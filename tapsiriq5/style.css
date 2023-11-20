@@ -1,0 +1,92 @@
+.container {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#img {
+    padding-top: 30px;
+    padding-left: 15x;
+    width: 40px;
+    height: 39px;
+}
+
+#visa {
+    width: 80px;
+    height: 30px;
+}
+
+.number {
+    margin: 0;
+    font-size: 25px;
+}
+
+.name {
+    font-family: monospace;
+    margin-top: 0;
+    margin-bottom: 5px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.altdiv {
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+
+.text {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-small;
+    margin-bottom: 0;
+}
+
+.date {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+    margin-top: 0;
+}
+
+.div1 {
+    font-family: 'Courier New', Courier, monospace;
+    width: 320px;
+    background-color: rgb(147, 69, 171);
+    padding: 10px;
+    border-radius: 10px;
+    border: 5px;
+    margin: 5px;
+    color: white;
+}
+
+.div2 {
+    font-family: 'Courier New', Courier, monospace;
+    width: 320px;
+    background-color: green;
+    padding: 10px;
+    border-radius: 10px;
+    border: 5px;
+    margin: 5px;
+    color: white;
+}
+
+.div3 {
+    font-family: 'Courier New', Courier, monospace;
+    width: 320px;
+    background-color: blue;
+    padding: 10px;
+    border-radius: 10px;
+    border: 5px;
+    margin: 5px;
+    color: white;
+}
+
+.div4 {
+    font-family: 'Courier New', Courier, monospace;
+    width: 320px;
+    background-color: black;
+    padding: 10px;
+    border-radius: 10px;
+    border: 5px;
+    margin: 5px;
+    color: white;
+}
