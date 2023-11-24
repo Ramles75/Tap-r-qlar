@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    font-family: 'Lato', sans-serif; 
+    margin: 35px auto; 
+}
+
+.product {
+    border: 1px solid black;
+}
+
+.photo-1 {
+    width: 325px;
+    height: 320px;
+}
+
+.photo-2 {
+    width: 400px;
+    height: 300px;
+}
+
+.price {
+    margin-top: 10px;
+    color: brown;
+}
+
+.info {
+    margin: 20px 0;
+    padding: 20px;
+    list-style: none;
+    border: 1px solid none;
+    background-color: rgba(232, 232, 232)
+}
+
+.buy, .add {
+    color: rebeccapurple;
+    text-decoration: none; 
+    font-weight: bold;
+    padding: 10px;  
+}
+
+.back {
+    font-size: smaller;
+    font-style: italic;
+    color: black;
+    padding-left: 6px;
+}
+
+/* Border'i böyüdə və aralarındakı məsafəni düzəldə bilmədim. Border'in içinə padding  və ya başqa bir şey verəndə alınmır. 
+Buy və Add üzərinə yalnız tutanda xətt əmələ gəlməyini eləyə bilmədim. Bunlardan başqa səhvlər də var.*/
