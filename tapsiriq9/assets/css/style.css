@@ -1,0 +1,13 @@
+.title {
+    height: 60px;
+    background-color: black;
+    margin-bottom: 15px;
+}
+
+.last {
+    height: 50px;
+    width: 85%;
+    background-color: plum;
+    border-radius: 15px;
+    margin: 20px auto;
+}
