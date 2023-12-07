@@ -1,0 +1,20 @@
+.ul {
+    opacity: 0;
+    transition: .3s all;
+}
+
+.card :hover ul {
+    opacity: 1;
+}
+
+.list a {
+    transition: color 0.3s all;
+}
+
+.list a:hover {
+    background-color: orange;
+}
+
+.text:hover {
+    background-color: orange;
+}

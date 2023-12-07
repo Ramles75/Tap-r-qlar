@@ -1,0 +1,19 @@
+.ul {
+    position: absolute;
+    bottom: 30px;
+    left: 1px;
+    padding: 20px;
+    margin: none;
+}
+
+.ul li {
+    padding: 1rem 0;
+}
+
+.main-part {
+    position: relative;
+}
+
+.text {
+    position: relative;
+}
