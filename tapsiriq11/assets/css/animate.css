@@ -1,0 +1,8 @@
+.first-button {
+    transition: .3s all;
+}
+
+.first-button:hover {
+    background-color: blue;
+    color: white;
+}
