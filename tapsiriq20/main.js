@@ -1,7 +1,7 @@
 // Task-1
 
-// let getSayHello = function (username) {
-//     alert (`${username}`)
+// let getSayHello = function (parametr) {
+//     alert (`${parametr} is active now`)
 // };
 
 // getSayHello ("Namiq");
